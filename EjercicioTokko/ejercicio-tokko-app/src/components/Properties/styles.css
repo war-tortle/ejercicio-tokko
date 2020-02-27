@@ -1,0 +1,38 @@
+.cont-properties {
+    background: #598296;
+    padding: 20px;
+    margin: 5px 5px 10px 5px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.cont-col-descripcion {
+    width: 20%;
+    font-weight: bold;
+    font-family: roboto, sans-serif;
+    font-size: 17px;
+}
+
+.cont-col-valores {
+    width: 80%;
+    font-family: roboto, sans-serif;
+    font-size: 17px;
+    padding-left: 15px;
+    box-sizing: border-box;
+}
+.cont-inputs-prop {
+    width: 50%;
+    text-align: center;
+    margin: 26px 0px;
+    height: 100%;
+    display: inline-block;
+}
+input[type=number] {
+    -moz-appearance:textfield;
+}
+
+.boton-confirm {
+    float: left;
+    margin-left: 190px;
+    margin-top: 30px;
+}
